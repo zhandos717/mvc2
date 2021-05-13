@@ -14,4 +14,4 @@ class MainController extends Controller {
             
             $this->view->render('Главная страница',$vars);
         }
-    }
+    }   

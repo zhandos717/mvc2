@@ -14,7 +14,7 @@
 
 </head>
 
-<body>
+<body class="text-center">
     <div class="container">
         <?= $content; ?>
 
