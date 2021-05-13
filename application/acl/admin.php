@@ -2,11 +2,7 @@
     return[
         
         'all'=>[
-            'index',
-            'about',
-            'contact',
-            'post',
-            
+            'login',
         ],
         'authorize'=>[
             
@@ -15,7 +11,10 @@
 
         ],
         'admin'=>[
-
+            'logout',
+            'add',
+            'edit',
+            'delete',
         ]
     ];
 
